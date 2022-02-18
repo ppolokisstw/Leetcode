@@ -1,7 +1,7 @@
 bool isPalindrome(int x){
     bool result=false;
     if(x<0)return result;
-    int mat[31]={0};
+    int mat[10]={0};
     double ten=10;
     int t=0;
     while(x>=ten)
