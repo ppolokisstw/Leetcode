@@ -18,7 +18,7 @@ int searchInsert(int* nums, int numsSize, int target){
             end=output;
             
         }
-        output=(int)((end+start)/2);
+        output=(int)((end+start)/2);//use(int)
         
     }
     
