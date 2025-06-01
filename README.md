@@ -1,4 +1,4 @@
 # Leetcode
 start form C code
 
-submit after accept by leetcode
+submit after being accepted
